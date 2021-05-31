@@ -1,4 +1,4 @@
-module github.com/cvbarros/go-teamcity
+module github.com/rc1140/go-teamcity
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
